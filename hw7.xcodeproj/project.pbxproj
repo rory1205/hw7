@@ -148,6 +148,7 @@
 				DEVELOPMENT_TEAM = XPGA7SNH3M;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = hw7/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "沉浸之聲";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -176,6 +177,7 @@
 				DEVELOPMENT_TEAM = XPGA7SNH3M;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = hw7/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "沉浸之聲";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
